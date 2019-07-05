@@ -1,6 +1,6 @@
-import os
+#import os
 # Enable Flask's debugging features. Should be False in production
-DEBUG = True
+DEBUG = False
 # set an update folder
 #UPLOAD_FOLDER = 'static/uploads'
 #APP_ROOT = os.path.dirname(os.path.abspath(__file__))
